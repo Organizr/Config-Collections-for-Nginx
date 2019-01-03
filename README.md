@@ -9,4 +9,4 @@ A Collection of Functioning Nginx Configurations
 
 If we are missing something you wish added, let us know. Thanks!
 
-Last Edit: @jonfinley 12.28.2018
+Last Edit: @jonfinley 01.02.2019
